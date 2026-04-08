@@ -104,7 +104,7 @@ export function Hero({ onStartProject }: { onStartProject: () => void }) {
         >
           <div className="relative z-10 bg-white p-4 rounded-[2.5rem] shadow-2xl border border-gray-100">
             <img
-              src="https://picsum.photos/seed/tech/800/600"
+              src="https://images.unsplash.com/photo-1565106430482-8f6e74349ca1?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
               alt="Digital Solution"
               className="rounded-[2rem] w-full h-auto object-cover shadow-inner"
               referrerPolicy="no-referrer"

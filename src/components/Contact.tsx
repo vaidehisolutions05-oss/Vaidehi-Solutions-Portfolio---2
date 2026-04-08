@@ -18,7 +18,7 @@ export function Contact() {
   return (
     <section id="contact" className="py-24 bg-gray-900 text-white overflow-hidden relative">
       <div className="absolute top-0 right-0 w-1/2 h-full bg-blue-600/10 blur-[120px] -z-0" />
-      
+
       <div className="max-w-7xl mx-auto px-6 relative z-10">
         <div className="grid lg:grid-cols-2 gap-16 items-center">
           <div>
@@ -42,7 +42,7 @@ export function Contact() {
                   </div>
                   <div>
                     <div className="text-sm text-gray-500 font-medium">Email Us</div>
-                    <div className="text-xl font-bold">hello@vaidehisolutions.com</div>
+                    <div className="text-xl font-bold">vaidehisolutions05@gmail.com</div>
                   </div>
                 </div>
                 <div className="flex items-center gap-6 group">
@@ -50,8 +50,8 @@ export function Contact() {
                     <Phone className="w-6 h-6 text-blue-400 group-hover:text-white" />
                   </div>
                   <div>
-                    <div className="text-sm text-gray-500 font-medium">Call Us</div>
-                    <div className="text-xl font-bold">+1 (555) 000-0000</div>
+                    <div className="text-sm text-gray-500 font-medium">Call Us | WhatsApp</div>
+                    <div className="text-xl font-bold">+91 - 9653187751</div>
                   </div>
                 </div>
                 <div className="flex items-center gap-6 group">
@@ -60,7 +60,7 @@ export function Contact() {
                   </div>
                   <div>
                     <div className="text-sm text-gray-500 font-medium">Visit Us</div>
-                    <div className="text-xl font-bold">Silicon Valley, CA</div>
+                    <div className="text-xl font-bold">1603, A Wing, Phase 2, Vedant Millennia, Titwala East, Kalyan, Thane, Maharashtra, India - 421605</div>
                   </div>
                 </div>
               </div>

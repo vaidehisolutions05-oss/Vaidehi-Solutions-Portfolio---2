@@ -49,7 +49,7 @@ export function WhyChooseUs() {
           >
             <div className="relative z-10 rounded-[3rem] overflow-hidden shadow-2xl">
               <img
-                src="https://picsum.photos/seed/office/800/1000"
+                src="https://images.unsplash.com/photo-1522071820081-009f0129c71c?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
                 alt="Our Office"
                 className="w-full h-auto object-cover"
                 referrerPolicy="no-referrer"
